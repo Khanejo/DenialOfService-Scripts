@@ -1,7 +1,7 @@
 # DenialOfService-Scripts
 This repository contains several denial-of-service or DDOS scripts that can be used for penetration testing
 
-1) Ping_of_death_flood.py :  Usage: <target> <broadcast IP> <threads> 
+1) Ping_of_death_flood.py : Usage: <target> <broadcast IP> <threads> 
   
  Ping of Death (a.k.a. PoD) is a type of Denial of Service (DoS) attack in which an attacker attempts to crash, destabilize, or freeze the targeted computer or service by sending malformed or oversized packets using a simple ping command.
  
